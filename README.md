@@ -16,6 +16,6 @@ I'm a passionate developer from Nepal, proficient in a variety of programming la
 - [LinkedIn](https://www.linkedin.com/in/sulavparajuli/)
 - [Website](https://sulav-parajuli.com.np)
 - Email: mail@sulav-parajuli.com.np
-- Another Github Profile: (https://github.com/sulav-xten)
+- [Another Github Profile](https://github.com/sulav-xten)
 
 Feel free to connect with me or explore my work further!
